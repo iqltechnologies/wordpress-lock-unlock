@@ -1,2 +1,11 @@
-# wordpress-lock-unlock
-Lock or unlock your WordPress from command line
+# Wordpress Lock-unlock
+
+Lock or unlock your WordPress from command line. This script will make it immutable so no modification on your files will work except in uploads directory.
+When you want to install a plugin or theme etc, just unlock and lock again
+
+## Usage 
+- `wget https://cdn.jsdelivr.net/gh/iqltechnologies/wordpress-lock-unlock/lu.sh`
+- make it executable `chmod +x hc.sh`
+- run it `./lu.sh lock` (or unlock)
+
+  

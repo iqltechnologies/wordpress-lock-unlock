@@ -6,7 +6,7 @@ When you want to install a plugin or theme etc, just unlock and lock again
 ## Usage 
 - `wget https://cdn.jsdelivr.net/gh/iqltechnologies/wordpress-lock-unlock/lu.sh`
 - make it executable `chmod +x hc.sh`
-- run it `./lu.sh lock` (or unlock)
+- run it `./hc.sh lock` (or unlock)
 
   
 ## copyright

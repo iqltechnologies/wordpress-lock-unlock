@@ -9,3 +9,8 @@ When you want to install a plugin or theme etc, just unlock and lock again
 - run it `./lu.sh lock` (or unlock)
 
   
+## copyright
+Tariq Abdullah 2024
+
+## Help and Support
+tariq@iqltech.com
